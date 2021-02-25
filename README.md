@@ -10,7 +10,7 @@
 
 ### Node.JS
 - [2021-02-21 / Node.js란?](https://github.com/vivalahm/TIL/blob/c85884b5017dc90d5bd05e99bff52200eb2543df/BACK_END/Node.JS/2021-02-21Node.JS_1.md)
-- [2021-02-24 / 모듈 패턴](https://github.com/vivalahm/TIL/blob/main/BACK_END/Node.JS/2021-02-24Node.JS_2.md)
+- [2021-02-24 / 모듈 패턴 & ](https://github.com/vivalahm/TIL/blob/main/BACK_END/Node.JS/2021-02-24Node.JS_2.md)
 
 ----
 ### ETC &#128218;
