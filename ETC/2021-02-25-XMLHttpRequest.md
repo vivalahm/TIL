@@ -1,4 +1,4 @@
-##XMLHttpRequest(XHR)
+## XMLHttpRequest(XHR)
 
 - XHR객체는 서버와 상호작용하기 위하여 사용됨.
 - 전체 페이지의 새로 고침 없이도 URL로부터 데이터를 받아올 수 있다.
