@@ -13,7 +13,7 @@
 - [2021-02-24 / 모듈 패턴 & NPM ](https://github.com/vivalahm/TIL/blob/main/BACK_END/Node.JS/2021-02-24Node.JS_2.md)
 
 ----
-### FRONT END &#128281;&#128282;
+### FRONT END :arrow_forward: &#128282;
 - [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2020-02-25-Javascript01.md)
 ----
 ### ETC &#128218;
