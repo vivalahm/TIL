@@ -20,6 +20,7 @@
 - [2021-02-26 / 01.자바 프로그래밍 시작하기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-01/2021-02-26-CH01-01.md)
 - [2021-02-26 / 02.자바와 이클립스 시작하기 ](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-02/2021-02-27-CH01-02.md)
 - [2021-02-27 / 03. 자바 첫 프로그램 만들고 실행하기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-03/2021-02-27-CH01-03.md)
+- [2021-02-27 / 04. 컴퓨터에서 자료 표현하기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-04/2021-02-27-CH01-04.md)
 ----
 ### FRONT END :arrow_forward: &#128282;
 - [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2020-02-25-Javascript01.md)
