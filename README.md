@@ -18,6 +18,7 @@
 
 ### JAVA
 - [2021-02-26 / 01.자바 프로그래밍 시작하기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-01/2021-02-26-CH01-01.md)
+- [2021-02-26 / 02.자바와 이클립스 시작하기 ](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-02/README.md)
 ----
 ### FRONT END :arrow_forward: &#128282;
 - [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2020-02-25-Javascript01.md)
