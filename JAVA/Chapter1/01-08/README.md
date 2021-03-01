@@ -7,18 +7,19 @@
 ![encode.PNG](./img/encode.PNG)
 
 + 문자세트 : 각 문자를 얼마로 표현할 것인지 코드 값을 모아둔 것을 문자세트(charater set)라 함 <br>
-            (ex. ASKII, euc-kr, utf-8, utf-16)
+               (ex. ASKII(8비트), euc-kr, 유니코드[utf-8, utf-16{2바이트 2^16 한바이트만 쓸경우 ASKII완벽 호환}])
 
 ## - 자바에서는 문자가 어떻게 표현되나요?
 
 + 자바는 문자를  나타내기 위해 전세계 표준인 UNICODE를 사용
 
-+ utf-16 인코딩을 사용 (모든 문자를 2바이트로 표시)
++ utf-16 인코딩을 사용 (모든 문자를 2바이트로 표시) <=>utf-8은 1바이트~4바이트 유동적으로 표현을 함.(영문만을 쓴다면 1바이트로 충분하므로 오버헤드 관리에 효율적)
 
 
 ## - 문자형 변수 선언과 사용하기
 + 문자를 위한 데이터 타입
   **char** ch = 'A';
+  *'A' 와 "A" 는 다르다. ""는 문자열(String)을 나타냄 "A" 내부를 보면 	  A\0 즉 끝에 널char가 같이 있는 형태
 
 + 내부적으로 숫자료 표현되므로 숫자를 넣어도 문자가 출력될 수 있음
 
@@ -52,7 +53,7 @@ public class CharacterTest {
 	}
 }
 ```
-## 참고하세요
+## 용어 참고
 
     character set: 문자를 숫자로 변환한 값의 세트
 
@@ -70,4 +71,4 @@ public class CharacterTest {
  [한글 유니코드 표](http://www.unicode.org/charts/PDF/UAC00.pdf)
 
 ## 다음 강의
-[09. 자료형(data type)- 논리형과 자료형 없이 변수 사용하기](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-09/README.md)
+[09. 자료형(data type)- 논리형과 자료형 없이 변수 사용하기]()
