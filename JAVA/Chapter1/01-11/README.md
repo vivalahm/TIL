@@ -49,7 +49,7 @@
 제어문에 많이 사용됨 (반복문의 종료등에 많이 사용함)
 
 ## 다음 강의 
-[12 자바의 연산자들 -2 (관계, 논리 연산자)]()
+[12 자바의 연산자들 -2 (관계, 논리 연산자)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-12/README.md)
 
 
 
