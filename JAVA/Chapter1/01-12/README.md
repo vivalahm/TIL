@@ -10,7 +10,7 @@
 
 ![relation](./img/relation.png)
 
-```
+```java
 package ch12;
 
 public class RealtionalTest {
@@ -41,7 +41,7 @@ public class RealtionalTest {
 
 ![logical](./img/logical.png)
 
-```
+```java
 package ch12;
 
 public class LogicalTest {
@@ -80,7 +80,7 @@ public class LogicalTest {
    
   -- 앞의 항의 결과가 true이면 뒤 항의 결과를 평가하지 않음 
 
-```
+```java
 package ch12;
 
 public class ShortCircuit {
