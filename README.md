@@ -27,8 +27,8 @@
 - [2021-03-01 / 08. 자료형(data type) - 문자는 프로그램에서 어떻게 표현하여 사용하나요?](https://github.com/vivalahm/TIL/tree/main/JAVA/Chapter1/01-08)
 - [2021-03-01 / 09. 자료형(data type)- 논리형과 자료형 없이 변수 사용하기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-09/README.md)
 - [2021-03-01 / 10. 변하지 않는 상수와 리터럴, 변수의 형 변환](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-10/README.md)
-- [2021-03-01 / 11.자바의 연산자들 -1 (대입, 부호, 산술, 복합대입, 증감연산자)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-11/README.md)
-- [2021-03-01 / 12 자바의 연산자들 -2 (관계, 논리 연산자)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-12/README.md)
+- [2021-03-02 / 11.자바의 연산자들 -1 (대입, 부호, 산술, 복합대입, 증감연산자)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-11/README.md)
+- [2021-03-02 / 12 자바의 연산자들 -2 (관계, 논리 연산자)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-12/README.md)
 ----
 ### FRONT END :arrow_forward: &#128282;
 - [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2020-02-25-Javascript01.md)
