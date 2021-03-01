@@ -25,6 +25,7 @@
 - [2021-03-01 / 06. 자료형(data type) - 정수](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-06/2021-03-01-CH01-06.md)
 - [2021-03-01 / 07. 자료형(data type) - 실수](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-07/2021-03-01-CH01-07.md)
 - [2021-03-01 / 08. 자료형(data type) - 문자는 프로그램에서 어떻게 표현하여 사용하나요?](https://github.com/vivalahm/TIL/tree/main/JAVA/Chapter1/01-08)
+- [2021-03-01 / 09. 자료형(data type)- 논리형과 자료형 없이 변수 사용하기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-09/README.md)
 ----
 ### FRONT END :arrow_forward: &#128282;
 - [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2020-02-25-Javascript01.md)
