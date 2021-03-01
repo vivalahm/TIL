@@ -23,12 +23,14 @@
 - [2021-02-27 / 04. 컴퓨터에서 자료 표현하기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-04/2021-02-27-CH01-04.md)
 - [2021-02-27 / 05. 변수는 변하는 수입니다](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-05/2021-02-27-CH01-05.md)
 - [2021-03-01 / 06. 자료형(data type) - 정수](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-06/2021-03-01-CH01-06.md)
-- [2021-03-01 / 07. 자료형(data type) - 실수](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-06/2021-03-01-CH01-06.md)
+- [2021-03-01 / 07. 자료형(data type) - 실수](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-07/2021-03-01-CH01-07.md)
+- [2021-03-01 / 08. 자료형(data type) - 문자는 프로그램에서 어떻게 표현하여 사용하나요?](https://github.com/vivalahm/TIL/tree/main/JAVA/Chapter1/01-08)
 ----
 ### FRONT END :arrow_forward: &#128282;
 - [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2020-02-25-Javascript01.md)
 - [2021-02-25 / 자바스크립트 엔진 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2021-02-25-Javascript02.md)
 - [2021-02-25 / 자바스크립트 기본 문법 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2021-02-25-Javascript03.md)
+- 
 ----
 ### ETC &#128218;
 - [2021-02-21 / GitHub 블로그 만들기](https://github.com/vivalahm/TIL/blob/main/ETC/2021-02-21-GITBLOG.md)
