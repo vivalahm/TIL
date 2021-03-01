@@ -83,5 +83,7 @@ public class BitTest {
 
 ![priority](./img/priority.png)
 
+- 가독성있는 코딩을 위해 ()를 잘 활용해야한다.
+
 ## 다음 강의
 [14. 조건문 - if 문(만약에... 라면)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-14/README.md)
