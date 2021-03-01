@@ -2,7 +2,7 @@
 
 ## 조건 연산자
 
-- 삼항 연산자
+- 삼항 연산자(조건문의 축약형)
 
 - 조건식의 결과가 true(참)인 경우와 false(거짓)인 경우에 따라 다른 결과가 수행됨 
 
@@ -11,7 +11,7 @@
 
 ![conditionop](./img/conditionop.png)
 
-```
+```java
 package ch13;
 
 import java.util.Scanner;
@@ -43,7 +43,7 @@ public class ConditionTest {
 - 마스크 : 특정 비트를 가리고 몇 개의 비트 값만 사용할 때
 
 - 비트켜기 : 특정 비트들만을 1로 설정해서 사용하고 싶을 때<br>
-        예)  & 00001111 ( 하위 4비트 중 1인 비트만 꺼내기)
+      예)  & 00001111 ( 하위 4비트 중 1인 비트만 꺼내기(마스킹- 특정 비트를 가리고 나머지 비트만 사용하는 방법 ))
 
 - 비트끄기 : 특정 비트들만을 0으로 설정해서 사용하고 싶을 때<br>
       예)  | 11110000 ( 하위 4비트 중 0 인 비트만 0으로 만들기)
@@ -52,7 +52,9 @@ public class ConditionTest {
 
 ![bit](./img/bit.PNG)
 
-```
+- Java의 경우 비트연산자를 많이 사용하지는 않지만 좀더 빠른 Operation이 필요할때 비트 연산자가 사용되기도 함.
+
+```java
 package ch13;
 
 public class BitTest {
