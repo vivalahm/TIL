@@ -58,4 +58,4 @@ public class IfElseTest {
 ```
 
 ## 다음 강의
-[15. 조건이 여러 개 일 때의 if 문]()
+[15. 조건이 여러 개 일 때의 if 문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-15/README.md)
