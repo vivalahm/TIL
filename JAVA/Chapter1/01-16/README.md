@@ -13,7 +13,7 @@
 
 ## 한 달이 며칠인지 알려주는 프로그램 구현
 
-```
+```java
 package ch16;
 
 public class SwitchCaseTest {
@@ -47,7 +47,7 @@ public class SwitchCaseTest {
 
 ## 문자열 지원되는 switch - case 문
 
-```
+```java
 package ch16;
 
 public class SwitchCaseTest2 {
@@ -86,7 +86,7 @@ public class SwitchCaseTest2 {
 
 - yield 키워드 사용
 
-```
+```java
 package ch16;
 
 public class SwitchCaseUpTest {
@@ -112,7 +112,7 @@ public class SwitchCaseUpTest {
 	    		System.out.println("존재하지 않는 달 입니다."); 
 	    		yield 0;
 	    	}
-		};
+		};//int day의 문장을 끝을 의미함.
 		System.out.println(month + "월은 " + day + "일입니다.");
 	}
 }
