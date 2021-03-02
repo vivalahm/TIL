@@ -32,6 +32,7 @@
 - [2021-03-02 / 13. 자바의 연산자들 -3 (조건 연산자, 비트 연산자)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-13/README.md)
 - [2021-03-02 / 14. 조건문 - if 문(만약에... 라면)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-14/README.md)
 - [2021-03-02 / 15. 조건이 여러 개 일 때의 if 문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-15/README.md)
+- [2021-03-02 / 16. 조건이 여러 개 일 때 간단히 표현되는 switch-case 문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-16/README.md)
 
 ----
 ### FRONT END :arrow_forward: &#128282;
