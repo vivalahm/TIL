@@ -26,7 +26,7 @@
 
  ![ifelseif](./img/ifelseif.PNG)
 
- ```
+ ```java
  package ch15;
 
 public class IfElseIfElseTest {
@@ -64,7 +64,7 @@ public class IfElseIfElseTest {
 - if - if 로 사용하게 되면 각각 다른 조건 문으로 해석되어 각각 수행하게 됨
 
    ( 위 예제를 if 로 모두 바꾸어 봅시다.)
-```   
+```java   
 package ch15;
 
 public class IfIfTest {
@@ -86,7 +86,7 @@ public class IfIfTest {
 			System.out.println("중, 고등학생 입니다.");
 		}
 		else{
-			charge = 3000;
+			charge = 3000;//디폴트 값
 			System.out.println("일반인 입니다.");
 		} 
 		
