@@ -33,10 +33,11 @@
 - [2021-03-02 / 14. 조건문 - if 문(만약에... 라면)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-14/README.md)
 - [2021-03-02 / 15. 조건이 여러 개 일 때의 if 문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-15/README.md)
 - [2021-03-02 / 16. 조건이 여러 개 일 때 간단히 표현되는 switch-case 문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-16/README.md)
-- [2021-03-02 / 21. 중간에 멈추는 break문, 무시하고 계속 진행하는 continue문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-21/README.md)
-- 
 - [2021-03-03 / 17. 반복문 - while문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-17/README.md)
 - [2021-03-03 / 18. 반복문 - do-while문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-18/README.md)
+- [2021-03-02 / 19. 반복문 - for문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-19/README.md)
+- [2021-03-02 / 20. 반복문이 여러 번 포개진 중첩 반복문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-20/README.md)
+- [2021-03-02 / 21. 중간에 멈추는 break문, 무시하고 계속 진행하는 continue문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-21/README.md)
 
 ----
 ### FRONT END :arrow_forward: &#128282;
