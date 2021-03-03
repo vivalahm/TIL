@@ -41,4 +41,4 @@ public class DowhileTest {
 
 ```
 ## 다음 강의
-[19. 반복문 - for문](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-19/README.md)
+[19. 반복문 - for문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-19/README.md)
