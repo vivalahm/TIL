@@ -71,4 +71,4 @@ public class ForTest {
 
 
 ## 다음 강의
-[20. 반복문이 여러 번 포개진 중첩 반복문](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-20/README.md)
+[20. 반복문이 여러 번 포개진 중첩 반복문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-20/README.md)
