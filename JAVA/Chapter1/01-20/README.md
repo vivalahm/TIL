@@ -11,7 +11,7 @@
 
 ## 구구단을 for와 while로 구현해 보자
 
-```
+```java
 package ch20;
 
 public class NestedLoopTest {
