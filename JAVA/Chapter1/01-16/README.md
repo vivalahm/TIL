@@ -120,4 +120,4 @@ public class SwitchCaseUpTest {
 ![switchup](./img/switchup.PNG)
 
 ## 다음 강의
-[17. 반복문 - while문](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-17/README.md)
+[17. 반복문 - while문](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter1/01-17/README.md)
