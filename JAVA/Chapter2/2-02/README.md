@@ -66,5 +66,5 @@ public class UserInfo {
 - camel notation 방식으로 명명
 
 ## 다음 강의
-[03. 함수와 메서드](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-03/README.md)
+[03. 함수와 메서드](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-03/README.md)
 
