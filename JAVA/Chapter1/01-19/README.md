@@ -8,7 +8,7 @@
 ## for문 예제 (while과 비교)
 
 - 1부터 10까지 더한 결과를 출력하세요
-```
+```java
 package ch19;
 
 public class ForTest {
@@ -57,7 +57,7 @@ public class ForTest {
    
    ![for3](./img/for3.PNG)
 
-- 무한 반복
+- 무한 반복 (while(true)와 동일 사용:지속적으로 돌아 가야하는 웹서버 등 데몬)
 
    ![for4](./img/for4.PNG)
 
