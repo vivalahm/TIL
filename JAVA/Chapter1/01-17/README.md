@@ -22,7 +22,7 @@
 
 - 1부터 10까지 더하여 그 결과를 출력해 보자
 
-```
+```java
 package ch17;
 
 public class WhileTest {
@@ -47,7 +47,7 @@ public class WhileTest {
 
 ## 무한 반복 할 때
 
-``` 
+``` java
    while(true){
 
        .......
