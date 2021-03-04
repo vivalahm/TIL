@@ -52,9 +52,9 @@
 # FRONT END :arrow_forward: &#128282;
 
 ### JavaScript
-- [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2020-02-25-Javascript01.md)
-- [2021-02-25 / 자바스크립트 엔진 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2021-02-25-Javascript02.md)
-- [2021-02-25 / 자바스크립트 기본 문법 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/2021-02-25-Javascript03.md)
+- [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2020-02-25-Javascript01.md)
+- [2021-02-25 / 자바스크립트 엔진 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-02-25-Javascript02.md)
+- [2021-02-25 / 자바스크립트 기본 문법 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-02-25-Javascript03.md)
 - 
 ----
 # ETC &#128218;
