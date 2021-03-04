@@ -56,6 +56,8 @@
 - [2021-02-25 / 자바스크립트 엔진 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-02-25-Javascript02.md)
 - [2021-02-25 / 자바스크립트 기본 문법 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-02-25-Javascript03.md)
 - [2021-03-04/ 자바스크립트 var, let, const 변수 선언 방식의 차이](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-variable.md)
+- [2021-03-04/ 자바스크립트 외부 스크립트](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-external%20script.md)
+- [2021-03-04/ 자바스크립트 use strict](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-use%20strict.md)
 
 ----
 # ETC &#128218;
