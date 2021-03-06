@@ -3,13 +3,15 @@
 ## 생성자 정의 하기
 
 - 생성자를 구현해서 사용할 수 있음
+- 클래스에 **생성자를 따로 구현하면** 기본 생성자 (default constructor)는 제공되지 않음
+- 생성자를 호출하는 코드(**client 코드**)에서 여러 생성자 중 필요에 따라 호출해서 사용할 수 있음
 
-- 클래스에 생성자를 따로 구현하면 기본 생성자 (default constructor)는 제공되지 않음
+### 오버로딩
 
-- 생성자를 호출하는 코드(client 코드)에서 여러 생성자 중 필요에 따라 호출해서 사용할 수 있음
+- 오버로딩을 제공하는 이유는 사용하는 쪽의 편의성을 위해서 (다양한 매개변수에 따른 편의성)
 
 UserInfo.java
-```
+```java
 public class UserInfo {
 
 	public String userId;
@@ -33,7 +35,7 @@ public class UserInfo {
 ```
 
 UserInfoTest.java
-```
+```java
 public class UserInfoTest {
 
 	public static void main(String[] args) {
