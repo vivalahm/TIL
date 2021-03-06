@@ -57,4 +57,4 @@ public class UserInfoTest {
 
 
 ## 다음 강의 
-[08. 복습해봅시다 (객체 구현하기)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-08/README.md)
+[08. 복습해봅시다 (객체 구현하기)](https://github.com/vivalahm/TIL/tree/main/JAVA/Chapter2/2-08)
