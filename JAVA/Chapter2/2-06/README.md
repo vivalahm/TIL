@@ -78,4 +78,4 @@ public class StudentTest {
 }
 ```
 ## 다음 강의
-[07. 여러가지 생성자를 정의하는 생성자 오버로딩 (overloading)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-07/README.md)
+[07. 여러가지 생성자를 정의하는 생성자 오버로딩 (overloading)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-07/README.md)
