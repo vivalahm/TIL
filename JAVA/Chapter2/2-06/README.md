@@ -42,7 +42,7 @@
 - 컴파일러가 제공해 주는 기본 생성자외에 필요에 의해 생성자를 직접 구현 할 수 있음
 
 Student.java
-```
+```java
 public class Student {
 
 	public int studentNumber;
@@ -62,7 +62,7 @@ public class Student {
 ```
 
 StudentTest.java
-```
+```java
 public class StudentTest {
 
 	public static void main(String[] args) {
