@@ -60,16 +60,17 @@
 - [2021-02-25 / 자바스크립트 특징 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2020-02-25-Javascript01.md)
 - [2021-02-25 / 자바스크립트 엔진 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-02-25-Javascript02.md)
 - [2021-02-25 / 자바스크립트 기본 문법 ](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-02-25-Javascript03.md)
-- [2021-03-04/ 자바스크립트 var, let, const 변수 선언 방식의 차이](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-variable.md)
-- [2021-03-04/ 자바스크립트 외부 스크립트](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-external%20script.md)
-- [2021-03-04/ 자바스크립트 use strict](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-use%20strict.md)
+- [2021-03-04 / 자바스크립트 var, let, const 변수 선언 방식의 차이](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-variable.md)
+- [2021-03-04 / 자바스크립트 외부 스크립트](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-external%20script.md)
+- [2021-03-04 / 자바스크립트 use strict](https://github.com/vivalahm/TIL/blob/main/Front%20End/JavaScript/2021-03-04-use%20strict.md)
 
 
 ----
 # ETC &#128218;
 - [2021-02-21 / GitHub 블로그 만들기](https://github.com/vivalahm/TIL/blob/main/ETC/2021-02-21-GITBLOG.md)
 - [2021-02-25 / XMLHttpRequest(XHR)](https://github.com/vivalahm/TIL/blob/main/ETC/2021-02-25-XMLHttpRequest.md)
-- [2021-03-0/ XML, Json, Yaml 개념](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09-XML-JSON-YAML.md)
+- [2021-03-0 / XML, Json, Yaml 개념](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09-XML-JSON-YAML.md)
+- [2021-03-0 / 톰캣 8080포트 already in use 에러 원인과 해결방안 ](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09.%20tomcat-already-in-use-error.md)
 ----
 
 # 사이드 프로젝트 (WAPP)
