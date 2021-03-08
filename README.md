@@ -69,6 +69,7 @@
 # ETC &#128218;
 - [2021-02-21 / GitHub 블로그 만들기](https://github.com/vivalahm/TIL/blob/main/ETC/2021-02-21-GITBLOG.md)
 - [2021-02-25 / XMLHttpRequest(XHR)](https://github.com/vivalahm/TIL/blob/main/ETC/2021-02-25-XMLHttpRequest.md)
+- [2021-03-0/ XML, Json, Yaml 개념](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09-XML-JSON-YAML.md)
 ----
 
 # 사이드 프로젝트 (WAPP)
