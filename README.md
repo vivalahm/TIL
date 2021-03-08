@@ -71,6 +71,7 @@
 - [2021-02-25 / XMLHttpRequest(XHR)](https://github.com/vivalahm/TIL/blob/main/ETC/2021-02-25-XMLHttpRequest.md)
 - [2021-03-09 / XML, Json, Yaml 개념](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09-XML-JSON-YAML.md)
 - [2021-03-09 / 톰캣 8080포트 already in use 에러 원인과 해결방안 ](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09.%20tomcat-already-in-use-error.md)
+- [2021-03-09 / REST API란?](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09-REST_API.md)
 ----
 
 # 사이드 프로젝트 (WAPP)
