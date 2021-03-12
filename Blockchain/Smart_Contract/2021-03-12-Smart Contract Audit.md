@@ -64,4 +64,23 @@
 4. 기능 검토
    - 스마트 컨트랙트 기능이 백서의 내용과 일치하는지 검증   
 
-  
+  ###  검사 기법
+
+1. Code Design Patterns : 스마트 컨트랙트 아키텍처를 검토하고 재 사용하는 제 3자 Smart Contract 및 Library 를 체계적으로 안전하게 사용하는지 검토
+2. Statics Analysis : [Oyente](https://m.blog.naver.com/ldw0811/221667853092), Manticore, Mythril 또는 Solgraph와 같은 보안 감사 도구를 사용하여 코드 결함, 백도어 및 악의적인 코드를 탐지 하는 자동화된 코드 검사
+3. Unit Testing : 컨트랙트에서 각 기능에 대해 작성된 맞춤 유닛 테스트를 수행하여 각 기능이 예상대로 작동 하는지 확인
+4. Manual Analysis : 경쟁조건(Race Conditions), 거래 주문 의존성과 같은 잠재적인 문제점을 발견하고 각 기능에 대한 라인 단위 코드 검사 수행
+5. Bug Bounties : 스마트 컨트랙트가 실제 배포되기 전에 테스트 네트워크에 배포하여 전문가의 테스트를 통해 검증(버그 발견 보상금 지급)
+
+- Smart Contract Audit 각 항목들에 대한 감사 후 발견된 문제점에 대해 Risk Rating 수행 
+- Risk Rating : High > Medium > Low > Informational > Undetermined 으로 등급화
+
+## 스마트 컨트랙트 감사(Smart Contract Audit) 프로세스 
+
+![img](https://mblogthumb-phinf.pstatic.net/MjAxOTA4MDNfMjYw/MDAxNTY0ODQxNTIzNDY4.xf7gdD77Alo0CFpJ0SF-AaRQ5wr67tJLHGzGcSzmQ_Ig.uOwEExc9SNRUQS4-tYFtABKysBToRUTs8nl7BmS3UyIg.JPEG.santalsm/117_%EA%B4%80%EB%A6%AC_2%EA%B5%90%EC%8B%9C_05_04.jpg?type=w2)
+
+1. 착수 (Preparation) : 보안 감사를 원하는 Smart Contract 소스코드, 백서등 자료를 받아 검토하고 감사 범위, 기법/도구, 일정 등 계획 수립 => 산출물 : 감사 계획서, 백서, 소스코드
+2. 감사(Audit) : 오옌테(Oyente), 미스릴(Mythril) 등 오픈소스 보안 감사 도구 등을 이용한 자동화 및 전문가를 통한 수동 감사 수행 , 발견된 문제점을 Review 하고 개선 해결책 제시 => 산출물 : 점검 결과서
+3.  보고(Report) : 감사보고서를 작성하여 검토한 후 감사 결과를 고객에게 통보, 시정사항에 대한 보완조치를 수행할 경우 수정사항을 반영해 감사보고서 개정 => 산출물 : 감사 보고서
+
+- 국내.외 스마트 컨트랙트 감사 전문 보안 회사들이 다양 형태의 감사 서비스를 제공하고 있다.
