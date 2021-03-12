@@ -49,6 +49,19 @@
 
 - 목적 => 1. 의도치 않은 보안 결함, 비효율적인 코드실행 개선 2. 개발자의 의도적인 부정행위 적발 3. 사용자가 블록체인을 안심하고 사용할 수 있는 환경 조성
 
-   
+- Smart Contract를 배포 전 소스코드 결함 및 [보안 취약점](http://wiki.hash.kr/index.php/%EC%B7%A8%EC%95%BD%EC%A0%90)을 검사하고 의도대로 잘 짜여져 있는지 검증
+
+## 스마트 컨트랙트 감사(Smart Contract) 점검 대상 및 검사 기법
+
+### 점검 대상 
+
+1. 아키텍쳐
+   -  Smart Contract에 대한 전반적인 아키텍처 검증
+2. 코드결함
+   - [Reentrancy](http://blog.naver.com/PostView.nhn?blogId=complusblog&logNo=220985740336) , Overflow and Underflow, Front-Running 등 검사
+3. 보안 취약점
+   - 공개적으로 알려진 보안 취약점 점검
+4. 기능 검토
+   - 스마트 컨트랙트 기능이 백서의 내용과 일치하는지 검증   
 
   
