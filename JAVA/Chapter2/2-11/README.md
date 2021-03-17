@@ -67,4 +67,4 @@ public class TestReprt {
 ![report](./img/report.PNG)
 
 ## 다음 강의
-[12. 객체 자신을 가리키는 this](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-12/README.md)
+[12. 객체 자신을 가리키는 this](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-12/README.md)
