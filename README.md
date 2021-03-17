@@ -52,6 +52,10 @@
 - [2021-03-06 / 06. 생성자에 대해 알아봅시다 (constructor)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-06/README.md)
 - [2021-03-06 / 07. 여러가지 생성자를 정의하는 생성자 오버로딩 (overloading)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-07/README.md)
 - [2021-03-06 / 08. 복습해봅시다 (객체 구현하기-코드첨부)](https://github.com/vivalahm/TIL/tree/main/JAVA/Chapter2/2-08)
+- [2021-03-17 / 09. 참조 자료형 변수](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-09/README.md)
+- [2021-03-17 / 10. 접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-10/README.md)
+- [2021-03-17 / 11. 캡슐화 (encapsulation)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-11/README.md)
+- 
 
 ### Spring 기초
 - [2021-03-15 / web.xml](https://github.com/vivalahm/TIL/blob/main/Spring/2021-03-15-web_xml.md)
