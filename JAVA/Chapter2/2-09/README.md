@@ -8,9 +8,9 @@
 
 - 클래스형으로 변수를 선언
 
-- 기본 자료형은 사용하는 메모리의 크기가 정해져 있지만, 참조 자료형은 클래스에 따라 다름
+- 기본 자료형은 사용하는 **메모리의 크기**가 정해져 있지만, 참조 자료형은 **클래스에 따라 다름**
 
-- 참조 자료형을 사용 할때는 해당 변수에 대해 생성하여야 함  <br>
+- **참조 자료형**을 사용 할때는 해당 **변수에 대해 생성**하여야 함  <br>
   (String 클래스는 예외적으로 생성하지 않고 사용할 수 있음)
 
 
@@ -25,7 +25,7 @@
 - 선언된 Subject 변수는 생성된 인스턴스가 아니므로, Student의 생성자에서 생성하여 사용
 
 Student.java
-```
+```java
 package ch09;
 
 public class Student {
@@ -64,7 +64,7 @@ public class Student {
 ```
 
 Subject.java
-```
+```java
 package ch09;
 
 public class Subject {
@@ -75,7 +75,7 @@ public class Subject {
 ```
 
 StudentTest.java
-```
+```java
 package ch09;
 
 public class StudentTest {
@@ -102,4 +102,4 @@ public class StudentTest {
 
 
 ## 다음 강의 
-[10. 접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-10/README.md)
+[10. 접근 제어 지시자(access modifier)와 정보은닉(infomation hiding)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-10/README.md)
