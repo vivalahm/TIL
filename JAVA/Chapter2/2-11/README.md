@@ -2,15 +2,14 @@
 
 ## 정보 은닉을 활용한 캡슐화
 
-- 꼭 필요한 정보와 기능만 외부에 오픈함
-
-- 대부분의 멤버 변수와 메서드를 감추고 외부에 통합된 인터페이스만은 제공하여 일관된 기능을 구현 하게 함
-
-- 각각의 메서드나 멤버 변수를 접근함으로써 발생하는 오류를 최소화 한다.
+- 정보 은닉보다 더 객체(정보)를 감쌈
+- 꼭 필요한 정보와 기능만 외부에 오픈함 (외부에서 사용할 메서드만 나머지는 자동으로 생성)
+- 대부분의 멤버 변수와 메서드를 감추고 외부에 통합된 인터페이스만은 제공하여 **일관된 기능을 구현** 하게 함
+- 각각의 메서드나 멤버 변수를 접근함으로써 발생하는 **오류를 최소화** 한다.
 
 ## 레포트 만들기 예제
 
-```
+```java
 public class MakeReport {
 
 	StringBuffer buffer = new StringBuffer();
@@ -51,7 +50,7 @@ public class MakeReport {
 }
 ```
 
-```
+```java
 public class TestReprt {
 
 	public static void main(String[] args) {
@@ -64,6 +63,7 @@ public class TestReprt {
 
 }
 ```
+
 ![report](./img/report.PNG)
 
 ## 다음 강의
