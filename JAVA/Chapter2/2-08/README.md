@@ -16,4 +16,4 @@
 
 
 ## 다음 강의 
-[09. 참조 자료형 변수](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-09/README.md)
+[09. 참조 자료형 변수](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-09/README.md)
