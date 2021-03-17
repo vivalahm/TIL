@@ -57,6 +57,7 @@
 - [2021-03-17 / 11. 캡슐화 (encapsulation)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-11/README.md)
 - [2021-03-17 / 12. 객체 자신을 가리키는 this](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-12/README.md)
 - [2021-03-17 / 13. 객체 간의 협력 (collabration)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-13/README.md)
+- [2021-03-17 / 14. 버스 타고 학교 가는 학생의 과정을 객체 지향 프로그래밍으로 구현해보기](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-14/README.md)
 
 ### Spring 기초
 - [2021-03-15 / web.xml](https://github.com/vivalahm/TIL/blob/main/Spring/2021-03-15-web_xml.md)
