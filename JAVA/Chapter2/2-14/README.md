@@ -9,7 +9,7 @@
 
     두 학생이 버스와 지하철을 타는 상황을 구현해 봅시다.
 Student.java
-```
+``` java
 public class Student {
 	
 	String studentName;
@@ -37,7 +37,7 @@ public class Student {
 }
 ```
 Bus.java
-```
+``` java
 public class Bus {
 	
 	int busNumber;
@@ -60,7 +60,7 @@ public class Bus {
 ```
 
 Subway.java
-```
+``` java
 public class Subway {
 
 	int lineNumber;
@@ -83,7 +83,7 @@ public class Subway {
 ```
 
 TakeTransTest.java
-```
+``` java
 public class TakeTransTest {
 
 	public static void main(String[] args) {
