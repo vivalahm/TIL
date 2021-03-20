@@ -92,6 +92,9 @@
 - [2021-03-09 / 톰캣 8080포트 already in use 에러 원인과 해결방안 ](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09.%20tomcat-already-in-use-error.md)
 - [2021-03-09 / REST API란?](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09-REST_API.md)
 - [2021-03-19/ JSP 개념과 동작 방식](https://github.com/vivalahm/TIL/blob/main/ETC/2020-03-19-JSP1.md)
+
+### 잡글
+-[2021-03-21/ 내가 생각하는 프로그래밍](https://github.com/vivalahm/TIL/blob/main/thought/2021-03-21-Thought1.md)
 ----
 
 ----
