@@ -94,7 +94,8 @@
 - [2021-03-19/ JSP 개념과 동작 방식](https://github.com/vivalahm/TIL/blob/main/ETC/2020-03-19-JSP1.md)
 
 ### 잡글
--[2021-03-21/ 내가 생각하는 프로그래밍](https://github.com/vivalahm/TIL/blob/main/thought/2021-03-21-Thought1.md)
+
+- [2021-03-21/ 내가 생각하는 프로그래밍](https://github.com/vivalahm/TIL/blob/main/thought/2021-03-21-Thought1.md)
 ----
 
 ----
