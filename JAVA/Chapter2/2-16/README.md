@@ -2,7 +2,7 @@
 
 ## 공통으로 사용하는 변수가 필요한 경우 
 
-- 여러 인스턴스가 공유하는 기준 값이 필요한 경우
+- (동일한 클래스로 부터 생성된) 여러 인스턴스가 **공유하는 기준 값**이 필요한 경우
 
 - 학생마다 새로운 학번 생성
 
@@ -16,19 +16,19 @@
 
 static int serialNum;
 
-- 인스턴스가 생성될 때 만들어지는 변수가 아닌, 처음 프로그램이 메모리에 로딩될 때 메모리를 할당
+- 인스턴스가 생성될 때 만들어지는 변수가 아닌, 처음 프로그램이 메모리에 로딩될 때 메모리를 할당 (프로그램이 끝나고 언로드 되면 사라짐)
 
 - 클래스 변수, 정적변수라고도 함(vs. 인스턴스 변수)
 
-- 인스턴스 생성과 상관 없이 사용 가능하므로 클래스 이름으로 직접 참조
- 
+- 인스턴스 생성과 상관 없이 사용 가능하므로 **클래스 이름으로 직접 참조**
+
  Student.serialNum = 100;
 
 
 ## static 변수 테스트하기
 
 Employee.java
-```
+```java
 public class Employee {
 
 	public static int serialNum = 1000;
@@ -59,7 +59,7 @@ public class Employee {
 }
 ```
 EmployeeTest.java
-```
+```java
 public class EmployeeTest {
 
 	public static void main(String[] args) {
@@ -87,7 +87,7 @@ public class EmployeeTest {
 ## 회사원이 입사할 때마다 새로운 사번 부여하기
 
 Employee.java 생성자 구현
-```
+```java
 ...
 
 	public Employee()
@@ -101,7 +101,7 @@ Employee.java 생성자 구현
 ```
 
 EmployeeTest.java
-```
+```java
 public class EmployeeTest {
 
 	public static void main(String[] args) {
