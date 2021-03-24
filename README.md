@@ -66,7 +66,7 @@
 - [2021-03-24 / MVC 기초개념.xml](https://github.com/vivalahm/TIL/tree/main/Spring)
 - [2021-03-24 / DAO와 DTO 개념 및 예시.xml](https://github.com/vivalahm/TIL/blob/main/Spring/2021-03-24-DAO_DTO.md)
 - [2021-03-25 / Dispatcher Servlet 개념과 장점.xml](https://github.com/vivalahm/TIL/blob/main/Spring/2021-03-25-Dispatcher_Servlet.md)
-- [2021-03-25 / 빈(.Bean)개념과 생성방법.xml](https://github.com/vivalahm/TIL/blob/main/Spring/2021-03-25-Bean.md)
+- [2021-03-25 / 빈(Bean)개념과 생성방법.xml](https://github.com/vivalahm/TIL/blob/main/Spring/2021-03-25-Bean.md)
 
 ----
 # FRONT END :arrow_forward: &#128282;
