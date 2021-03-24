@@ -22,7 +22,7 @@
 
   
 
-![img](../../../Pictures/imageDispatcher-Servlet(%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B3%90%20%EC%84%9C%EB%B8%94%EB%A6%BF)%20%EC%9D%B4%EB%9E%80/img.png)
+![img](https://user-images.githubusercontent.com/48741014/112344057-13b74f00-8d07-11eb-819f-210c81a91dc7.png)
 
 - 물론 Dispatcher Servlet이 요청을 Controller로 넘겨주는 방식은 효율적으로 보인다. 하지만 모든 요청을 처리하다보니 이미지나 HTML 파일을 불러오는 요청마저 전부 Controller로 넘겨 버린다. 게다가 JSP파일 안의 JavaScript나 StyleCSS 파일들에 대한 요청들 까지도 모두 디스패처 서블릿이 가로채는 까닭에 자원을 불러오지 못하는 상황도 발생하곤 했다. 이에 대한 해결책은 두가지가 있다. 
 
