@@ -6,7 +6,7 @@
 
 Employee.java
 
-```
+```java
 private static int serialNum = 1000;
 
  ...
@@ -21,7 +21,7 @@ public static void setSerialNum(int serialNum) {
 
 - 클래스 이름으로 호출 가능 ( 클래스 메서드, 정적 메서드 )
 
-```
+```java
 System.out.println(Employee.getSerialNum());
 ```
 
@@ -33,7 +33,7 @@ System.out.println(Employee.getSerialNum());
 
 Employee.java
 
-```
+```java
 public static void setSerialNum(int serialNum) {
 		int i = 0;
 		
@@ -44,7 +44,7 @@ public static void setSerialNum(int serialNum) {
 
 EmployeeTest2.java
 
-```
+```java
 public class EmployeeTest2 {
 
 	public static void main(String[] args) {

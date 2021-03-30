@@ -8,7 +8,7 @@
 
 
 CarFactoryTest.java
-```
+```java
 public class CarFactoryTest {
 
 	public static void main(String[] args) {
