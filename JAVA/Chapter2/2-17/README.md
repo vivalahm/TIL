@@ -62,7 +62,7 @@ public class EmployeeTest2 {
 
 - 지역변수, 멤버 변수, 클래스 변수는 유효범위와 life cycle, 사용하는 메모리도 다름 
 
-![variable](../../../../../Pictures/imageREADME/variable.png)
+![variable](https://user-images.githubusercontent.com/48741014/112955527-7af75800-917a-11eb-8ec9-3c7da064164e.png)
 
 - static 변수는 프로그램이 메모리에 있는 동안 계속 그 영역을 차지하므로 너무 큰 메모리를 할당하는 것은 좋지 않음
 
