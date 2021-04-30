@@ -1,0 +1,13 @@
+# 사용자 입력값 유효성 검사 이벤트 처리 방법
+
+### onFocus()
+
+- 다음 입력창에서 onFocus()를 통해 이전 내용을 검사한다. 
+- onFocus를 통해 이전 값이 저장된 Date를 유효성 검사를 실행하여 해다 부분에 에러를 표시해준다.
+
+https://runtoyourdream.tistory.com/202
+
+- 혹은 마지막 입력에 대한 처리를 위해 포커스 해지될 떄 이벤트인 onBlur를 사용해도 된다.
+
+https://newline.tistory.com/147
+
