@@ -103,8 +103,7 @@
 - [2021-03-09 / REST API란?](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-09-REST_API.md)
 - [2021-03-19/ JSP 개념과 동작 방식](https://github.com/vivalahm/TIL/blob/main/ETC/2020-03-19-JSP1.md)
 - [2021-03-22/ 프로세스와 스레드 그리고 웹서버](https://github.com/vivalahm/TIL/blob/main/ETC/2021-03-22-ProcessVThread.md)
+- [2021-03-22/ S3 버킷 권환 설정 방법 (403 에러 해결방법)](https://github.com/vivalahm/TIL/blob/main/ETC/2021-05-12%20%20S3%20bucket%20403%20ERORR%20Solution)
 
-
-----
 
 ----
