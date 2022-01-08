@@ -11,4 +11,7 @@ VIPCustomer() 생성자에 의해 VIPCustomer 클래스의 모든 멤버 변수�
 
 ![image2](https://user-images.githubusercontent.com/48741014/148633362-7e5cd099-1c35-46df-aed0-8fbcdd648036.png)
 
-  					
+형 변환과 오버라이딩 메서드 호출
+
+자바에서는 항상 인스턴스의 메서드가 호출 됨 (가상메서드의 원리)
+자바의 모든 메서드는 가상 메서드(virtual method) 임
