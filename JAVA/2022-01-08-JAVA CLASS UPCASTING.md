@@ -13,5 +13,7 @@ VIPCustomer() 생성자에 의해 VIPCustomer 클래스의 모든 멤버 변수�
 
 형 변환과 오버라이딩 메서드 호출
 
+vc 변수의 타입은 Customer지만 인스턴스의 타입은 VIPCustomer 임
+
 자바에서는 항상 인스턴스의 메서드가 호출 됨 (가상메서드의 원리)
 자바의 모든 메서드는 가상 메서드(virtual method) 임
