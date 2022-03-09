@@ -64,6 +64,7 @@
 - [2021-03-30 / 18. static 응용 - 싱글톤 패턴](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-18/README.md)
 - [2021-03-30 / 19. 복습해봅시다 (static과 싱클톤 패턴)](https://github.com/vivalahm/TIL/blob/main/JAVA/Chapter2/2-19/README.md)
 - [SOLID: 단일책임원칙, 개방페쇄원칙](https://github.com/vivalahm/TIL/blob/main/JAVA/SOLID_%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%B5%E1%86%A8_%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%BC%E1%84%91%E1%85%A8%E1%84%89%E1%85%AB%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%B5%E1%86%A8.md)
+- [SOLID_리스코프치환원칙_인터페이스분리원칙](https://github.com/vivalahm/TIL/blob/main/JAVA/SOLID_%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%91%E1%85%B3%E1%84%8E%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AB%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%B5%E1%86%A8_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%B5%E1%86%A8.md)
 
 ### Spring 기초
 - [2021-03-15 / web.xml](https://github.com/vivalahm/TIL/blob/main/Spring/2021-03-15-web_xml.md)
